@@ -1,0 +1,12 @@
+{
+  "name": "SkribblHelper",
+  "version": "1.0",
+  "description": "Chrome extension that gives hints to help you win online Skribbl(http://skribbl.io) game!",
+  "manifest_version": 2,
+  "content_scripts": [{
+      "js": ["inject.js"],
+      "matches": ["https://skribbl.io/*"]
+  }],
+  "web_accessible_resources": ["script.js",
+                               "words.json"]
+}
