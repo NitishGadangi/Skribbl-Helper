@@ -2,9 +2,9 @@
 🎮 Chrome extension that gives Hints to help you win online Skribbl (http://skribbl.io) game!
 
 ## Backstory
-[Skribbl](http://skribbl.io/) is one of the best and quick multiplayer to play with any kind of friends. And obviously your quarantine times are the worst if you haven't tried this game yet, atleast after a few AmongUs sessions. Anyways, me just like any other person stuck in Covid lockdown started playing Skribbl so damn crazyily that I became to realise these words are poping up again and again.
+[Skribbl](http://skribbl.io/) is one of the best and quick multiplayer game to play with any kind of friends. And obviously your quarantine times are the worst if you haven't tried this game yet, atleast after a few AmongUs sessions. Anyways, me just like any other person stuck in Covid lockdown started playing Skribbl so damn crazyily that I became to realise these words are poping up again and again.
 
-So, just like any other geek outside, I started to search for any available database/word-list available online (just in case someone actually scraped every freaking word xD). Luckily with in no time I landed here skribbliohints.github.io . Oh God! Looks like I got a treasure 😂.
+So, just like any other geek outside, I started to search for any database/word-list available online (just in case someone actually scraped every freaking word xD). Luckily with in no time I landed here skribbliohints.github.io . Oh God! Looks like I got a treasure 😂.
 Next I started searching for some chrome extension templete where I can write up few lines of code to efficiently use this word-list and make a bot that can crack this Skribbl game. Credits to [betab0t](https://github.com/betab0t/SkribblHints) for this amazing chrome extension templete.
 
 However, its kind a impossible to make the whole thing automated (as skribble kicks you out, if you started brueforcing), and yeah the whole fun of playing the game it self will be damaged. **So I made it in such a way that it drops the Hints required in the order of precedence on top of the screen and you need to play rest of game asusual.** 
